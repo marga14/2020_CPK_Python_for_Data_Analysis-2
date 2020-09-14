@@ -16,6 +16,9 @@
 1 занятие (7 сентября 2020)  
 [Гид по git. Стиль PEP8. Основы работы с Jupyter. Целые и вещественные числа, логические переменные](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-2/tree/master/01_Introduction)
 
+2 занятие (11 сентября 2020)  
+[Строки. Ввод и форматирование строк. Списки и кортежи](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-2/tree/master/02_Strings_Lists_Tuples)
+
 ## Домашние задания
 TBA
 
