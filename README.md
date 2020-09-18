@@ -19,8 +19,18 @@
 2 занятие (11 сентября 2020)  
 [Строки. Ввод и форматирование строк. Списки и кортежи](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-2/tree/master/02_Strings_Lists_Tuples)
 
+3 занятие (14 сентября 2020)  
+[Срезы. Условный оператор. Цикл While](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-2/tree/master/03_If_Else_While)
+
+4 занятие (18 сентября 2020)  
+[Словари и множества. Цикл For.](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-2/tree/master/04_Set_Dict_For)
+
 ## Домашние задания
-TBA
+[Домашнее задание 1]https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-2/blob/master/%40HW/HW1/1_Homework.ipynb)  
+
+| ДЕДЛАЙН: | ПОЗДНИЙ ДЕДЛАЙН: |
+| :- | :- |
+| 23.59 25 сентября | 23.59 28 сентября (штраф 40%) |
 
 ## Формы контроля
 На каждом занятии оценивается посещаемость. Для получения сертификата нужно посетить минимум 7 занятий из 14.
