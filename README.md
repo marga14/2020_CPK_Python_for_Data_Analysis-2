@@ -26,7 +26,8 @@
 [Словари и множества. Цикл For.](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-2/tree/master/04_Set_Dict_For)
 
 ## Домашние задания
-[Домашнее задание 1]https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-2/blob/master/%40HW/HW1/1_Homework.ipynb)  
+[Домашнее задание 1](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-2/blob/master/%40HW/HW1/1_Homework.ipynb)  
+Задание нужно выполнить в notebook, сохранить его, назвать вашей фамилией и загрузить в папку [dropbox hw1](https://www.dropbox.com/request/Zfg5rfILtJ0Q6FqtbmQ3)
 
 | ДЕДЛАЙН: | ПОЗДНИЙ ДЕДЛАЙН: |
 | :- | :- |
