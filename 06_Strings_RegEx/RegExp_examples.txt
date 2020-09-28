@@ -31,4 +31,4 @@ pig = "Рыла свинья белорыла, тупорыла; полдвор�
 
 users = 'Василий Зайцев, Erwin König, Людмила Павличенко, Josef Allerberger, Matthäus Hetzenauer, Александр Башлачёв'
 
-email = 'iawpghnube1206@gmail.com\r\n+79151489999 (telegram @vasiiesal) test.tewst2@subsubdomain.subdomain.domain.ru.!'
+email = 'iawpghnube1206@gmail.com\r\n+79151489999 fd,d_e@gmail.com(telegram @vasiiesal)привет@yandex.ru/ test.tewst2@subsubdomain.subdomain.domain.ru.!'
