@@ -31,7 +31,7 @@
 
 | ДЕДЛАЙН: | ПОЗДНИЙ ДЕДЛАЙН: |
 | :- | :- |
-| 23.59 5 октября | 23.59 8 октября (ШТРАФА НЕТ) |
+| 23.59 5 октября | 23.59 8 октября |
 
 [Домашнее задание 1](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-2/blob/master/%40HW/HW1/1_Homework.ipynb)  
 Задание нужно выполнить в notebook, сохранить его, назвать вашей фамилией и загрузить в папку [dropbox hw1](https://www.dropbox.com/request/Zfg5rfILtJ0Q6FqtbmQ3)
