@@ -25,6 +25,16 @@
 4 занятие (18 сентября 2020)  
 [Словари и множества. Цикл For.](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-2/tree/master/04_Set_Dict_For)
 
+5 занятие (21 сентября 2020)  
+Цикл For: продолжение (см. материалы занятия 4)
+
+6 занятие (25 сентября 2020)  
+[Файлы и функции](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-2/tree/master/05_Functions_Files)
+
+7 занятие (28 сентября 2020)  
+[Методы работы со строками. Регулярные выражения](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-2/tree/master/06_Strings_RegEx)
+
+
 ## Домашние задания
 [Домашнее задание 2](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-2/tree/master/%40HW/HW2)  
 Задание нужно выполнить в notebook, сохранить его, назвать вашей фамилией и загрузить в папку [dropbox hw2](https://www.dropbox.com/request/CCewC9mOL6VFOuk957gi)
