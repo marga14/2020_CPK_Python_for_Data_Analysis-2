@@ -31,20 +31,34 @@
 6 занятие (25 сентября 2020)  
 [Файлы и функции](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-2/tree/master/05_Functions_Files)
 
-7 занятие (28 сентября 2020)  
+7-8 занятие (28 сентября, 2 октября 2020)  
 [Методы работы со строками. Регулярные выражения](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-2/tree/master/06_Strings_RegEx)
+
+9 занятие (5 октября 2020)   
+[Введение в html. Скрэйпинг простой таблицы](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-2/tree/master/07_Html_Web-Scraping)
+
+10 занятие (12 октября 2020)   
+[Скрейпинг текста. Selenium. API, JSON, XML](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-2/tree/master/08_Scraping_Selenium)
 
 
 ## Домашние задания
+[Домашнее задание 3](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-2/tree/master/%40HW/HW3)  
+*Обратите внимание: в этот раз в домашнем задании два блокнота, нужно выполнить их оба*  
+Решение отправить через [dropbox HW3](https://www.dropbox.com/request/aRbAEOI4EhbwOj6B8EVc)
+
+| ДЕДЛАЙН: | ПОЗДНИЙ ДЕДЛАЙН: |
+| :- | :- |
+| 23.59 19 октября | 23.59 22 октября |
+
 [Домашнее задание 2](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-2/tree/master/%40HW/HW2)  
-Задание нужно выполнить в notebook, сохранить его, назвать вашей фамилией и загрузить в папку [dropbox hw2](https://www.dropbox.com/request/CCewC9mOL6VFOuk957gi)
+[Решение](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-2/blob/master/%40HW/HW2/2_Homework_Solution.ipynb)
 
 | ДЕДЛАЙН: | ПОЗДНИЙ ДЕДЛАЙН: |
 | :- | :- |
 | 23.59 5 октября | 23.59 8 октября |
 
 [Домашнее задание 1](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-2/blob/master/%40HW/HW1/1_Homework.ipynb)  
-Задание нужно выполнить в notebook, сохранить его, назвать вашей фамилией и загрузить в папку [dropbox hw1](https://www.dropbox.com/request/Zfg5rfILtJ0Q6FqtbmQ3)
+[Решение](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-2/blob/master/%40HW/HW1/1_Homework_Solution.ipynb)
 
 | ДЕДЛАЙН: | ПОЗДНИЙ ДЕДЛАЙН: |
 | :- | :- |
