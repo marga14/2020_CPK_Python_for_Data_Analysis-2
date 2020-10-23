@@ -50,8 +50,7 @@
 | 23.59 26 октября | НЕТ |
 
 [Домашнее задание 3](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-2/tree/master/%40HW/HW3)  
-*Обратите внимание: в этот раз в домашнем задании два блокнота, нужно выполнить их оба*  
-Решение отправить через [dropbox HW3](https://www.dropbox.com/request/aRbAEOI4EhbwOj6B8EVc)
+Решение в папке с домашним заданием.
 
 | ДЕДЛАЙН: | ПОЗДНИЙ ДЕДЛАЙН: |
 | :- | :- |
