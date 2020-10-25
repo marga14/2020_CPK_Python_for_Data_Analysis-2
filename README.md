@@ -19,8 +19,56 @@
 2 занятие (11 сентября 2020)  
 [Строки. Ввод и форматирование строк. Списки и кортежи](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-2/tree/master/02_Strings_Lists_Tuples)
 
+3 занятие (14 сентября 2020)  
+[Срезы. Условный оператор. Цикл While](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-2/tree/master/03_If_Else_While)
+
+4 занятие (18 сентября 2020)  
+[Словари и множества. Цикл For.](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-2/tree/master/04_Set_Dict_For)
+
+5 занятие (21 сентября 2020)  
+Цикл For: продолжение (см. материалы занятия 4)
+
+6 занятие (25 сентября 2020)  
+[Файлы и функции](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-2/tree/master/05_Functions_Files)
+
+7-8 занятие (28 сентября, 2 октября 2020)  
+[Методы работы со строками. Регулярные выражения](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-2/tree/master/06_Strings_RegEx)
+
+9 занятие (5 октября 2020)   
+[Введение в html. Скрэйпинг простой таблицы](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-2/tree/master/07_Html_Web-Scraping)
+
+10 занятие (12 октября 2020)   
+[Скрейпинг текста. Selenium. API, JSON, XML](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-2/tree/master/08_Scraping_Selenium)
+
+
 ## Домашние задания
-TBA
+[Домашнее задание 4](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-2/tree/master/%40HW/HW4)  
+Решение отправить через [dropbox HW4](https://www.dropbox.com/request/1FTvrGZW4jGO6j9Zovbk)
+
+| ДЕДЛАЙН: | ПОЗДНИЙ ДЕДЛАЙН: |
+| :- | :- |
+| 23.59 26 октября | НЕТ |
+
+[Домашнее задание 3](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-2/tree/master/%40HW/HW3)  
+Решение в папке с домашним заданием.
+
+| ДЕДЛАЙН: | ПОЗДНИЙ ДЕДЛАЙН: |
+| :- | :- |
+| 23.59 19 октября | 23.59 22 октября |
+
+[Домашнее задание 2](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-2/tree/master/%40HW/HW2)  
+[Решение](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-2/blob/master/%40HW/HW2/2_Homework_Solution.ipynb)
+
+| ДЕДЛАЙН: | ПОЗДНИЙ ДЕДЛАЙН: |
+| :- | :- |
+| 23.59 5 октября | 23.59 8 октября |
+
+[Домашнее задание 1](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-2/blob/master/%40HW/HW1/1_Homework.ipynb)  
+[Решение](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-2/blob/master/%40HW/HW1/1_Homework_Solution.ipynb)
+
+| ДЕДЛАЙН: | ПОЗДНИЙ ДЕДЛАЙН: |
+| :- | :- |
+| 23.59 25 сентября | 23.59 28 сентября (ШТРАФА НЕТ) |
 
 ## Формы контроля
 На каждом занятии оценивается посещаемость. Для получения сертификата нужно посетить минимум 7 занятий из 14.
